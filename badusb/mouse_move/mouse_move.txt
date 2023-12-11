@@ -14,7 +14,7 @@ REM     - Internet Connection
 
 
 REM REQUIRED - Set your Python script link
-DEFINE SCRIPT-PY-LINK example.com
+DEFINE SCRIPT-PY-LINK https://raw.githubusercontent.com/Mad-shush/flipper/main/badusb/mouse_move/script.py
 
 
 DELAY 1000
